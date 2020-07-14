@@ -10,6 +10,10 @@ My name is Reg. Here are some quick facts about me:
 
 👩‍💻  I'm currently volunteering as a JavaScript Tech Lead at [Women Who Code Manila](https://www.womenwhocode.com/manila/about) where we hold study groups every month. Watch out for our events at our [Meetup](https://www.meetup.com/Women-Who-Code-Manila/) page!
 
+[![Twitter: regalyssa](https://img.shields.io/twitter/follow/regalyssa?style=social)](https://twitter.com/regalyssa)
+[![Linkedin: Regina Alyssa Esguerra](https://img.shields.io/badge/-LinkedIn%20Regina%20Alyssa%20Esguerra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/regina-alyssa-esguerra/)](https://www.linkedin.com/in/regina-alyssa-esguerra/)
+[![GitHub reginaalyssa](https://img.shields.io/github/followers/reginaalyssa?label=follow&style=social)](https://github.com/reginaalyssa)
+
 ## My Journey in Tech 💻
 
 I dipped my toes in HTML and CSS during high school and fell in love 😍 with web development. Because of this, I decided to pursue a career in tech.
